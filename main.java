@@ -6,7 +6,7 @@ class M
  Scanner sc =new Scanner(System.in);
  int a=sc.nextInt();
  int b=sc.nextInt();
-int c= a+b;
+int c= a*b;
 Syatem.out.println("Result = "+c);
 }
 }
